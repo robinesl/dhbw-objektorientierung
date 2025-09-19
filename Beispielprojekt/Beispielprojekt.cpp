@@ -4,7 +4,7 @@
 #include <memory>
 #include <algorithm>
 
-// --- Base Object Class 3432---
+// --- Base Object Class ---
 class Objekt {
 public:
     double x, y, width, height;
